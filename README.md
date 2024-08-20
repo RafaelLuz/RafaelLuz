@@ -21,6 +21,7 @@ Most of my repos are private. I'm sorry for that.
 
 ## Areas of Interest
 * Astrodynamics of Earth Satellites
+* Statistical Orbit Determination
 * Space Situational Awareness (SSA)
 * Variational Calculus, Optimal Control Theory, and Analytical Mechanics
 * Microwave Propagation and Antennae
