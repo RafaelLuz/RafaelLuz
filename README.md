@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm an electronic engineer with strong background in computational simulation of complex dynamic systems.
 
+Most of my repos are private. I'm sorry for that.
+
 ## Areas of Interest
 * Astrodynamics of Earth Satellites
 * Space Situational Awareness (SSA)
