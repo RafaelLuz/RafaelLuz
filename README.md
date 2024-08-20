@@ -15,17 +15,19 @@ Here are some ideas to get you started:
 
 # Hey!
 
-I'm an electronic engineer working in Space Operations with a strong background in computational simulation of complex dynamic systems.
+I'm an electronic engineer working in Space Operations with a strong background in mathematical modelling and computational simulation of dynamic systems.
 
 Most of my repos are private. I'm sorry for that.
 
 ## Areas of Interest
 * Astrodynamics of Earth Satellites
 * Space Situational Awareness (SSA)
-* Electromagnetic Propagation and Antennae
-* Optimal Control Theory
-* System Identification
-* Random Dynamic System
+* Variational Calculus, Optimal Control Theory, and Analytical Mechanics
+* Microwave Propagation and Antennae
+* Synthetic Aperture Radar (SAR) Electromagnetics
+* Statistical Inference and System Identification
+* Random Dynamic Systems
+* Dynamical Systems Theory
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python--blue?logo=python&logoColor=white)
