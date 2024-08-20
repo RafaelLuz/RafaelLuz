@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hey!
 
-I'm an electronic engineer with strong background in computational simulation of complex dynamic systems.
+I'm an electronic engineer working in Space Operations with a strong background in computational simulation of complex dynamic systems.
 
 Most of my repos are private. I'm sorry for that.
 
